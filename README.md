@@ -1,1 +1,2 @@
-# Example Azure Functions app using queues, EF and DI 
+# Example Azure Functions app using queues, EF and DI
+[![Build status](https://staal-it.visualstudio.com/VSTSDemo/_apis/build/status/Azure%20Function%20GitHub)](https://staal-it.visualstudio.com/VSTSDemo/_build/latest?definitionId=34)
